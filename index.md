@@ -1,7 +1,7 @@
 ---
 layout: default
-title:
-description:
+title: Pharmacie Letard
+description: Pharmacie de Saint Jean des Champs (50320)
 ---
 
 # Horaires d'ouverture
