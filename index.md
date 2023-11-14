@@ -1,3 +1,9 @@
+---
+layout: default
+title:
+description:
+---
+
 # Horaires d'ouverture
 
 | Lundi        | 8h45 - 12h15 | 14h15 - 19h15 |
